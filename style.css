@@ -2,3 +2,7 @@ p{
     color: rgb(59, 165, 33);
     background-color: black;
 }
+img{
+    width: 30%;
+    height: auto;
+}
